@@ -2,6 +2,8 @@
 
 GiniClust is a clustering method implemented in R for detecting rare cell types from large scale single cell gene expression data. It can be applied to data set come from different platform, such as multiplex qPCR data, tranditional single cell RNAseq or newly emerging UMI-based single cell RNAseq, such as inDrops and Drop-seq. GiniClust is created and maintained by the Yuan Lab at DFCI.
 
+The latest version (v3.0) can be found here: https://github.com/rdong08/GiniClust3 
+
 
 # Preparation
 Download the zip file GiniClust.zip and unzip it.  The unzipped folder contains one script 'Giniclust_Main.R', one folder 'Rfunction' including R scripts for all functions and two data samples 'Data_GBM.csv' (an RNAseq dataset) and 'Data_qPCR.csv' (a qPCR dataset).
